@@ -1,5 +1,5 @@
 # API CONTROL DE CALIDAD - PROYECTO FACULTAD
-REALIZADO CON NODE Y MONGO
+REALIZADO CON NODE Y MONGO , falta terminarlo
 #### 1
 ![](https://i.postimg.cc/jdsZR4z0/1.png)
 #### 2
